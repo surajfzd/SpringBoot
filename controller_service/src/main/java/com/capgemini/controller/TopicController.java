@@ -49,5 +49,4 @@ public void deleteTopic(@PathVariable String id )
 	topicService.deleteTopic(id);
 }
 
-
 }
